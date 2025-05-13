@@ -56,7 +56,7 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 
 
 
-📬** Contact**
+📬**Contact**
 
 For any inquiries or feedback, please reach out:
 
