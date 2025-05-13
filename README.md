@@ -60,7 +60,7 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 
 For any inquiries or feedback, please reach out:
 
-**Email:** vikramsha0825@gmail.com
+**Email:** vikramshah0825@gmail.com
 
 **LinkedIn:** https://www.linkedin.com/in/vikram-singh-shah-9752ab248
 
