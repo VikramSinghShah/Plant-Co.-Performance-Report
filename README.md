@@ -5,6 +5,7 @@
 This project is a comprehensive Power BI dashboard that provides actionable insights into sales performance, customer behavior, and product trends. It demonstrates proficiency in data modeling, DAX calculations, and interactive visualizations, making it a valuable addition to any data analyst's portfolio.
 
 
+
 📁 **Project Overview**
 
 **Project Title:** Sales Insights Dashboard
@@ -16,6 +17,7 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 **Data Source:** Simulated sales data (CSV format)
 
 **Objective:** To analyze sales data and derive meaningful business insights through interactive dashboards.
+
 
 
 🎯 **Key Features**
@@ -31,6 +33,7 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 **Top/Bottom Performers:** Highlight best and worst-performing products and regions.
 
 
+
 🧠 **Skills Demonstrated**
 
 **Data Modeling:** Established relationships between multiple tables to create a coherent data model.
@@ -42,6 +45,7 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 **Dashboard Design:** Applied best practices in UX/UI to create an intuitive and visually appealing dashboard.
 
 
+
 📈 **Future Enhancements**
 
 **Real-Time Data Integration:** Connect to live data sources for up-to-date analytics.
@@ -51,12 +55,13 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 **Mobile Optimization:** Design a mobile-friendly version of the dashboard.
 
 
+
 📬** Contact**
 
 For any inquiries or feedback, please reach out:
 
 **Email:** vikramsha0825@gmail.com
 
-**LinkedIn:** (https://www.linkedin.com/in/vikram-shah-9752ab248)
+**LinkedIn:** https://www.linkedin.com/in/vikram-singh-shah-9752ab248
 
 **Portfolio:** Your Portfolio Website
