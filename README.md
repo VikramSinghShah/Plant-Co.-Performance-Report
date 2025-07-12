@@ -6,6 +6,13 @@ This project is a comprehensive Power BI dashboard that provides actionable insi
 
 
 ------------------------------------------------------------------------------------------------------------------------------
+## 📊 Dashboard Snapshot:
+<p align="center">
+  <img src="./Dashboard SS/Plant Performance Dashboard.png" width="700" alt="Summary Dashboard">
+  <br><i> Plant Performance Dashboard </i>
+</p>
+
+----------------------------------------------
 📁 **Project Overview**
 
 **Project Title:** Sales Insights Dashboard
